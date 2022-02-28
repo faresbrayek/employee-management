@@ -14,7 +14,7 @@ CRUD application to manage the names, IDs and salaries of workers in a company .
 <img src="https://i.ibb.co/Y3Jppxc/image.png" data-canonical-src="https://i.ibb.co/Y3Jppxc/image.png" border="0">
 <img src="https://i.ibb.co/dJ9kmc5/image.png" data-canonical-src="https://i.ibb.co/dJ9kmc5/image.png" border="0">
 
-
+<a href="https://ibb.co/jVg16tD"><img src="https://i.ibb.co/jVg16tD/image.png" alt="image" border="0"></a> <a href="https://ibb.co/0frbmkT"><img src="https://i.ibb.co/0frbmkT/image.png" alt="image" border="0"></a> <a href="https://ibb.co/7yWsSSN"><img src="https://i.ibb.co/7yWsSSN/image.png" alt="image" border="0"></a> <a href="https://ibb.co/0tYJT2k"><img src="https://i.ibb.co/0tYJT2k/image.png" alt="image" border="0"></a> <a href="https://ibb.co/Y3Jppxc"><img src="https://i.ibb.co/Y3Jppxc/image.png" alt="image" border="0"></a> <a href="https://ibb.co/dJ9kmc5"><img src="https://i.ibb.co/dJ9kmc5/image.png" alt="image" border="0"></a>
 <h2>Usage</h2>
 <h3>javac POOPROJECT.java</h3>
 <h3>java POOPROJECT</h3>
