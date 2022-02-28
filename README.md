@@ -8,11 +8,11 @@ CRUD application to manage the names, IDs and salaries of workers in a company .
 
 
 <img src="https://i.ibb.co/fGRrDSx/image.png" data-canonical-src="https://i.ibb.co/fGRrDSx/image.png" style="max-high:100%;">
-<img src="https://i.ibb.co/0frbmkT/image.png" data-canonical-src="https://i.ibb.co/0frbmkT/image.png" style="max-high:100%;">
-<img src="https://i.ibb.co/7yWsSSN/image.png" data-canonical-src="https://i.ibb.co/7yWsSSN/image.png" style="max-high:100%;">
-<img src="https://i.ibb.co/0tYJT2k/image.png" data-canonical-src="https://i.ibb.co/0tYJT2k/image.png" style="max-high:100%;">
-<img src="https://i.ibb.co/Y3Jppxc/image.png" data-canonical-src="https://i.ibb.co/Y3Jppxc/image.png" style="max-high:100%;">
-<img src="https://i.ibb.co/dJ9kmc5/image.png" data-canonical-src="https://i.ibb.co/dJ9kmc5/image.png" style="max-high:100%;">
+<img src="https://i.ibb.co/rZHrFgY/image.png" data-canonical-src="https://i.ibb.co/rZHrFgY/image.png" style="max-high:100%;">
+<img src="https://i.ibb.co/Hgz5KKp/image.png" data-canonical-src="https://i.ibb.co/Hgz5KKp/image.png" style="max-high:100%;">
+<img src="https://i.ibb.co/2NcKxhw/image.png" data-canonical-src="https://i.ibb.co/2NcKxhw/image.png" style="max-high:100%;">
+<img src="https://i.ibb.co/6mGggkH/image.png" data-canonical-src="https://i.ibb.co/6mGggkH/image.png" style="max-high:100%;">
+<img src="https://i.ibb.co/fGRrDSx/image.png" data-canonical-src="https://i.ibb.co/fGRrDSx/image.png" style="max-high:100%;">
 
 <h2>Usage</h2>
 <h3>javac POOPROJECT.java</h3>
