@@ -7,12 +7,12 @@ CRUD application to manage the names, IDs and salaries of workers in a company .
 <p> 🐱‍💻 Simple Angular Reviews  🐱‍💻  </p>
 
 
-<img src="https://i.ibb.co/jVg16tD/image.png" data-canonical-src="https://i.ibb.co/jVg16tD/image.png" style="max-width:100%;">
-<img src="https://i.ibb.co/0frbmkT/image.png" data-canonical-src="https://i.ibb.co/0frbmkT/image.png" style="max-width:100%;">
-<img src="https://i.ibb.co/7yWsSSN/image.png" data-canonical-src="https://i.ibb.co/7yWsSSN/image.png" style="max-width:100%;">
-<img src="https://i.ibb.co/0tYJT2k/image.png" data-canonical-src="https://i.ibb.co/0tYJT2k/image.png" style="max-width:100%;">
-<img src="https://i.ibb.co/Y3Jppxc/image.png" data-canonical-src="https://i.ibb.co/Y3Jppxc/image.png" style="max-width:100%;">
-<img src="https://i.ibb.co/dJ9kmc5/image.png" data-canonical-src="https://i.ibb.co/dJ9kmc5/image.png" style="max-width:100%;">
+<img src="https://i.ibb.co/jVg16tD/image.png" data-canonical-src="https://i.ibb.co/jVg16tD/image.png" border="0">
+<img src="https://i.ibb.co/0frbmkT/image.png" data-canonical-src="https://i.ibb.co/0frbmkT/image.png" border="0">
+<img src="https://i.ibb.co/7yWsSSN/image.png" data-canonical-src="https://i.ibb.co/7yWsSSN/image.png" border="0">
+<img src="https://i.ibb.co/0tYJT2k/image.png" data-canonical-src="https://i.ibb.co/0tYJT2k/image.png" border="0">
+<img src="https://i.ibb.co/Y3Jppxc/image.png" data-canonical-src="https://i.ibb.co/Y3Jppxc/image.png" border="0">
+<img src="https://i.ibb.co/dJ9kmc5/image.png" data-canonical-src="https://i.ibb.co/dJ9kmc5/image.png" border="0">
 
 
 <h2>Usage</h2>
