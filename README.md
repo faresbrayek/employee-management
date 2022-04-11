@@ -4,7 +4,7 @@ CRUD application to manage the names, IDs and salaries of workers in a company .
 <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" data-canonical-src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" width="100" height="100" >
 
 
-<p> 🐱‍💻 Simple Angular Reviews  🐱‍💻  </p>
+<p> 🐱‍💻 JAVA application to manage Employee  🐱‍💻  </p>
 
 
 <img src="https://i.ibb.co/fGRrDSx/image.png" data-canonical-src="https://i.ibb.co/fGRrDSx/image.png" style="max-high:100%;">
